@@ -9,10 +9,10 @@
 
 #pragma warning(disable: 4786)
 
-#include <iostream>
-#include <string>
-#include <vector>
-#include <ctime>
+include <iostream>
+include <string>
+include <vector>
+include <ctime>
 
 const int MAX_RESP = 3;
 
