@@ -1,11 +1,5 @@
-//
-// Program Name: chatterbot2
-// Description: this is an improved version
-// of the previous chatterbot program "chatterbot1"
-// this one will try a little bit more to understand what the user is trying to say
-//
-// Author: Gonzales Cenelia
-//
+// Project Name: Sigma-Omega
+
 
 #pragma warning(disable: 4786)
 
