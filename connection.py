@@ -1,6 +1,6 @@
 #!/usr/bin/python
 import sleekxmpp
-import logging
+#import logging
 logging.basicConfig(level=logging.DEBUG)
 
 def session_start(event):
