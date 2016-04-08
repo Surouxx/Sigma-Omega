@@ -1,11 +1,12 @@
-// Project Name: Sigma-Omega
+#Project Name: Sigma-Omega
 
 import re
 import sqlite3
 from collections import Counter
 from string import punctuation
 from math import sqrt
- 
+import connections 
+
 # initialize the connection to the database
 connection = sqlite3.connect('chatbot.sqlite')
 cursor = connection.cursor()
