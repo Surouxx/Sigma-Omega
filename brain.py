@@ -5,7 +5,7 @@ import sqlite3
 from collections import Counter
 from string import punctuation
 from math import sqrt
-import connections 
+import connection
 
 # initialize the connection to the database
 connection = sqlite3.connect('chatbot.sqlite')
